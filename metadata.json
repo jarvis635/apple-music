@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix macOS Sonoma Glass - Project OS",
+  "description": "Premium macOS-inspired desktop with liquid glass aesthetics, fluid dock magnification, and comprehensive project organization workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
